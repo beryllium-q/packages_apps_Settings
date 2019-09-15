@@ -57,4 +57,7 @@
     <string name="home_handle_low_label">Small (AOSP)</string>
     <string name="home_handle_high_label">Long</string>
 
+    <!-- Battery temp -->
+    <string name="battery_temp">Battery temperature</string>
+
 </resources>
